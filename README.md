@@ -1,4 +1,4 @@
-# wokwi-
+# wokwi
 lautaro esteban
 emiliano romocordoba
 año: 6°2 avionica
